@@ -6,9 +6,6 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/**
- * 开发分支做了修改
- */
 public class Test1Activity extends AppCompatActivity {
 
     TextView tv_branch;
